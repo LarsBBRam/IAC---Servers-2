@@ -12,6 +12,11 @@
 # State Files
 *tfstate*
 
+#ssh keys
+*ed_id*
+
+README.MD
+
 
 # dotenv files
 .env
